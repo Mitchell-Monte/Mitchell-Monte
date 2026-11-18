@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello Everyone
 
+Im a high school senior in Arizona, starting **Information Technology at ASU Polytechnic** in fall 2027.
+I'm planning to overload my schedule and graduate a year early, in **spring 2030**.
+I'm aiming for **cybersecurity** or ** AI/ML**, and I'm building skills in both at the moment.
 <!--
 **Mitchell-Monte/Mitchell-Monte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
